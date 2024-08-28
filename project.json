@@ -5,7 +5,8 @@
   "main": "NewActivity.xaml",
   "dependencies": {
     "UiPath.System.Activities": "24.10.4",
-    "UiPath.UIAutomation.Activities": "24.11.1-preview"
+    "UiPath.UIAutomation.Activities": "24.11.1-preview",
+    "UiPath.WebAPI.Activities": "1.21.0"
   },
   "webServices": [],
   "entitiesStores": [],
